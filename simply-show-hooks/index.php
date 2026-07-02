@@ -3,7 +3,7 @@
 Plugin Name: Simply Show Hooks
 Plugin URI: https://www.calyxagency.com/#plugins
 Description: Simply Show Hooks helps theme or plugin developers to quickly see where all the action and filter hooks are on any WordPress page.
-Version: 1.3.0
+Version: 1.3.1
 Contributors: stuartobrien, cxthemes
 Author: Stuart O'Brien, cxThemes
 Author URI: https://www.calyxagency.com/#plugins

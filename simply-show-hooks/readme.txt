@@ -1,10 +1,11 @@
 === Simply Show Hooks ===
-Contributors: stuartobrien, cxthemes
+Contributors: stuartobrien
+Donate Link: https://www.paypal.com/donate/?hosted_button_id=J57ANUE3QJ6TY
 Tags: hook, action, filter, developer, admin
 Requires at least: 5.0
 Tested up to: 7.0
 Requires PHP: 7.0
-Stable tag: 1.3.0
+Stable tag: 1.3.1
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
@@ -39,6 +40,10 @@ Please note that in odd cases, due to the nature of actions and filters, the plu
 1. Here you can see Simply Show Hooks doing it's thing on any page of your website.
 
 == Changelog ==
+
+= 1.3.1 =
+* Plugin review fixes.
+* Contributors update.
 
 = 1.3.0 =
 * Restrict hook display to administrators before runtime hooks are attached.
