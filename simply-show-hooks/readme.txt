@@ -1,11 +1,11 @@
 === Simply Show Hooks ===
 Contributors: stuartobrien
-Donate Link: https://www.paypal.com/donate/?hosted_button_id=J57ANUE3QJ6TY
+Donate Link: https://www.paypal.com/donate/?hosted_button_id=VMDGDANV6X3EN
 Tags: hook, action, filter, developer, admin
 Requires at least: 5.0
 Tested up to: 7.0
 Requires PHP: 7.0
-Stable tag: 1.3.1
+Stable tag: 1.3.3
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
@@ -40,6 +40,12 @@ Please note that in odd cases, due to the nature of actions and filters, the plu
 1. Here you can see Simply Show Hooks doing it's thing on any page of your website.
 
 == Changelog ==
+
+= 1.3.3 =
+* Updated PayPal donate link.
+
+= 1.3.2 =
+* Updated author and plugin URI credits.
 
 = 1.3.1 =
 * Plugin review fixes.
